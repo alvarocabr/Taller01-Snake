@@ -14,5 +14,6 @@ public enum Constants {
 		// Dimension is a mutable class, copy to prevent mutation.
 		return new Dimension(SIZE);
 		// hola
+		// q hace
 	}
 }
