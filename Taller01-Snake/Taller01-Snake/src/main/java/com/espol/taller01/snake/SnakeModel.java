@@ -56,7 +56,11 @@ public class SnakeModel extends GameModel {
 
 	/** Graphical representation of the snake's head */
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	private static final GameTile SNAKE_HEAD_TILE = new RectangularTile(Color.BLUE);
+=======
+	private static final GameTile SNAKE_HEAD_TILE = new RectangularTile(Color.LIGHT_GRAY);
+>>>>>>> Stashed changes
 =======
 	private static final GameTile SNAKE_HEAD_TILE = new RectangularTile(Color.LIGHT_GRAY);
 >>>>>>> Stashed changes
